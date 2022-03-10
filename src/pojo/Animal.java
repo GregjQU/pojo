@@ -5,7 +5,6 @@ import java.time.Period;
 //import org.ietf.jgss.Oid;
 public class Animal {
 
-	
 	private String name;
 	private String group;
 	private int lifeSpan;
